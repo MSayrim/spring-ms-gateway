@@ -1,0 +1,8 @@
+{
+  "name": "spring-ms-gateway",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
